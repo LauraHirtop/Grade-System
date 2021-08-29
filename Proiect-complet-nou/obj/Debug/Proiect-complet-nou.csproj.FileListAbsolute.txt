@@ -1,0 +1,13 @@
+D:\iap\sem3\c#\Proiect-complet-nou\Proiect-complet-nou\bin\Debug\Proiect-complet-nou.exe.config
+D:\iap\sem3\c#\Proiect-complet-nou\Proiect-complet-nou\obj\Debug\Proiect_complet_nou.Form1.resources
+D:\iap\sem3\c#\Proiect-complet-nou\Proiect-complet-nou\obj\Debug\Proiect_complet_nou.Properties.Resources.resources
+D:\iap\sem3\c#\Proiect-complet-nou\Proiect-complet-nou\obj\Debug\Proiect-complet-nou.csproj.GenerateResource.Cache
+D:\iap\sem3\c#\Proiect-complet-nou\Proiect-complet-nou\bin\Debug\Proiect-complet-nou.exe
+D:\iap\sem3\c#\Proiect-complet-nou\Proiect-complet-nou\bin\Debug\Proiect-complet-nou.pdb
+D:\iap\sem3\c#\Proiect-complet-nou\Proiect-complet-nou\bin\Debug\MySql.Data.dll
+D:\iap\sem3\c#\Proiect-complet-nou\Proiect-complet-nou\obj\Debug\Proiect-complet-nou.exe
+D:\iap\sem3\c#\Proiect-complet-nou\Proiect-complet-nou\obj\Debug\Proiect-complet-nou.pdb
+D:\iap\sem3\c#\Proiect-complet-nou\Proiect-complet-nou\obj\Debug\Proiect_complet_nou.InfoShow.resources
+D:\iap\sem3\c#\Proiect-complet-nou\Proiect-complet-nou\obj\Debug\Proiect-complet-nou.csprojResolveAssemblyReference.cache
+D:\iap\sem3\c#\Proiect-complet-nou\Proiect-complet-nou\obj\Debug\Proiect_complet_nou.InfoShowTeacher.resources
+D:\iap\sem3\c#\Proiect-complet-nou\Proiect-complet-nou\obj\Debug\Proiect_complet_nou.AddNew.resources
